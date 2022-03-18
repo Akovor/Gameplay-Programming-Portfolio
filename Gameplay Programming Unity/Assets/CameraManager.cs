@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -19,4 +19,4 @@ public class CameraManager : MonoBehaviour
             (transform.position, targetTransform.position, ref cameraFollowVelocity, cameraFollowSpeed);
         transform.position = targetPosition;
     }
-}
+}*/
